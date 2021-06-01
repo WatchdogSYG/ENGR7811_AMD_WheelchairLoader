@@ -1,0 +1,164 @@
+﻿Study Static Analysis:1 started: 5/26/2021, 3:15:20 PM
+Number of configurations: 1
+Default mesh: 5841 elements, 10332 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 5/26/2021, 3:15:26 PM
+Total time 0:00:06
+
+Study Static Analysis:1 started: 5/26/2021, 3:19:41 PM
+Number of configurations: 1
+Default mesh: 5841 elements, 10332 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 1s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 3:19:43 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 5/26/2021, 3:20:44 PM
+Number of configurations: 1
+Default mesh: 5841 elements, 10332 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.9s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 3:20:45 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 5/26/2021, 3:26:15 PM
+Number of configurations: 1
+Default mesh: 5841 elements, 10332 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.7s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 3:26:17 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 5/26/2021, 3:40:43 PM
+Number of configurations: 1
+Default mesh: 5841 elements, 10332 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 3:40:45 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 5/26/2021, 3:42:12 PM
+Number of configurations: 1
+Default mesh: 5841 elements, 10332 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 3:42:14 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 5/26/2021, 3:49:49 PM
+Number of configurations: 1
+Default mesh: 5943 elements, 10472 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 5/26/2021, 3:49:54 PM
+Total time 0:00:05
+
+Study Static Analysis:1 started: 5/26/2021, 3:58:33 PM
+Number of configurations: 1
+Default mesh: 5981 elements, 10518 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 5/26/2021, 3:58:38 PM
+Total time 0:00:05
+
+Study Static Analysis:1 started: 5/26/2021, 3:59:06 PM
+Number of configurations: 1
+Default mesh: 5981 elements, 10518 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 3:59:07 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 5/26/2021, 3:59:30 PM
+Number of configurations: 1
+Default mesh: 5981 elements, 10518 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.9s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 3:59:32 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 5/26/2021, 3:59:49 PM
+Number of configurations: 1
+Default mesh: 5981 elements, 10518 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 3:59:51 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 5/26/2021, 4:00:32 PM
+Number of configurations: 1
+Default mesh: 5981 elements, 10518 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 4:00:34 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 5/26/2021, 4:00:43 PM
+Number of configurations: 1
+Default mesh: 5981 elements, 10518 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.9s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 4:00:45 PM
+Total time 0:00:02
+
+Study Static Analysis:1 started: 5/26/2021, 4:01:28 PM
+Number of configurations: 1
+Default mesh: 5981 elements, 10518 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.4s
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 4:01:29 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 5/26/2021, 4:03:31 PM
+Number of configurations: 1
+Default mesh: 5981 elements, 10518 nodes
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Solution time 0.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 5/26/2021, 4:03:33 PM
+Total time 0:00:02
+
