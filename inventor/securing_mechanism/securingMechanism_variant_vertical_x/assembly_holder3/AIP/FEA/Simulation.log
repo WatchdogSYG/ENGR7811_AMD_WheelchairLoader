@@ -1,0 +1,244 @@
+﻿Study Static Analysis:1 started: 14/06/2021, 18:28:36
+Number of configurations: 1
+Default mesh: 32246 elements, 53405 nodes
+Solution time 5.3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 14/06/2021, 18:28:45
+Total time 0:00:09
+
+Study Static Analysis:1 started: 14/06/2021, 18:30:53
+Number of configurations: 1
+Default mesh: 32246 elements, 53405 nodes
+Solution time 3.9s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 14/06/2021, 18:31:00
+Total time 0:00:07
+
+Study Static Analysis:1 started: 14/06/2021, 18:45:34
+Number of configurations: 1
+Default mesh: 27162 elements, 45854 nodes
+Mesh at contact 3 is too coarse
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Mesh at contact 7 is too coarse
+Solution time 4.3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 14/06/2021, 18:45:53
+Total time 0:00:19
+
+Study Static Analysis:1 started: 14/06/2021, 18:52:06
+Number of configurations: 1
+Default mesh: 25021 elements, 42120 nodes
+Mesh at contact 3 is too coarse
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Mesh at contact 7 is too coarse
+Model separates into 2 independent components
+Solution time 3.7s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 14/06/2021, 18:52:24
+Total time 0:00:18
+
+Study Static Analysis:1 started: 14/06/2021, 18:53:17
+Number of configurations: 1
+Default mesh: 25021 elements, 42120 nodes
+Mesh at contact 3 is too coarse
+Mesh at contact 4 is too coarse
+Mesh at contact 5 is too coarse
+Mesh at contact 7 is too coarse
+Model separates into 2 independent components
+Solution time 3.3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 14/06/2021, 18:53:23
+Total time 0:00:06
+
+Study Static Analysis:1 started: 14/06/2021, 18:54:07
+Number of configurations: 1
+Default mesh: 25021 elements, 42120 nodes
+Model separates into 2 independent components
+Solution time 3.1s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 14/06/2021, 18:54:12
+Total time 0:00:05
+
+Study Static Analysis:1 started: 14/06/2021, 18:59:21
+Number of configurations: 1
+Default mesh: 36598 elements, 60072 nodes
+Mesh at contact 23 is too coarse
+Mesh at contact 24 is too coarse
+Mesh at contact 25 is too coarse
+Mesh at contact 27 is too coarse
+Model separates into 2 independent components
+Solution time 14.9s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 14/06/2021, 18:59:52
+Total time 0:00:31
+
+Study Static Analysis:1 started: 14/06/2021, 19:31:30
+Number of configurations: 1
+Default mesh: 55218 elements, 85889 nodes
+Mesh at contact 19 is too coarse
+Mesh at contact 20 is too coarse
+Mesh at contact 21 is too coarse
+Mesh at contact 23 is too coarse
+Model separates into 2 independent components
+Solution time 6.4s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 14/06/2021, 19:31:53
+Total time 0:00:23
+
+Study Static Analysis:1 started: 14/06/2021, 19:41:14
+Number of configurations: 1
+Default mesh: 55139 elements, 85788 nodes
+Mesh at contact 19 is too coarse
+Mesh at contact 20 is too coarse
+Mesh at contact 21 is too coarse
+Mesh at contact 23 is too coarse
+Model separates into 2 independent components
+Solution time 6.5s
+Convergence rate: 50%
+h Refinement #1: 68707 elements, 106483 nodes
+
+Model separates into 2 independent components
+Solution time 7.8s
+Convergence rate: 51.8%
+h Refinement #2: 97888 elements, 148444 nodes
+
+Model separates into 2 independent components
+Solution time 10.5s
+Convergence rate: 28.9%
+h Refinement #3: 98024 elements, 148746 nodes
+
+Model separates into 2 independent components
+Solution time 10.6s
+Convergence rate: 43.4%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 14/06/2021, 19:42:44
+Total time 0:01:30
+
+Study Static Analysis:1 started: 14/06/2021, 20:14:35
+Number of configurations: 1
+Default mesh: 55524 elements, 86451 nodes
+Mesh at contact 20 is too coarse
+Mesh at contact 21 is too coarse
+Mesh at contact 23 is too coarse
+Model separates into 2 independent components
+Solution time 6.8s
+Convergence rate: 50%
+h Refinement #1: 68651 elements, 106413 nodes
+
+Model separates into 2 independent components
+Solution time 7.5s
+Convergence rate: 66.4%
+h Refinement #2: 97240 elements, 147421 nodes
+
+Model separates into 2 independent components
+Solution time 11.8s
+Convergence rate: 24%
+h Refinement #3: 97093 elements, 147253 nodes
+
+Model separates into 2 independent components
+Solution time 11.2s
+Convergence rate: 31.5%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 14/06/2021, 20:15:54
+Total time 0:01:19
+
+Study Static Analysis:1 started: 14/06/2021, 20:20:28
+Number of configurations: 1
+Default mesh: 53302 elements, 82994 nodes
+Model separates into 2 independent components
+Solution time 6.2s
+Convergence rate: 50%
+h Refinement #1: 54638 elements, 85216 nodes
+
+Model separates into 2 independent components
+Solution time 6.3s
+Convergence rate: 23.7%
+h Refinement #2: 55142 elements, 86131 nodes
+
+Model separates into 2 independent components
+Solution time 7.3s
+Convergence rate: 49.8%
+h Refinement #3: 55363 elements, 86497 nodes
+
+Model separates into 2 independent components
+Solution time 6.5s
+Convergence rate: 91%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 14/06/2021, 20:21:36
+Total time 0:01:08
+
+Study Static Analysis:1 started: 14/06/2021, 20:23:41
+Number of configurations: 1
+Default mesh: 53361 elements, 83108 nodes
+Model separates into 2 independent components
+Solution time 6.1s
+Convergence rate: 50%
+h Refinement #1: 54640 elements, 85235 nodes
+
+Model separates into 2 independent components
+Solution time 6.3s
+Convergence rate: 21.3%
+h Refinement #2: 54998 elements, 85877 nodes
+
+Model separates into 2 independent components
+Solution time 6.4s
+Convergence rate: 0.126%
+Problem converged 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 14/06/2021, 20:24:23
+Total time 0:00:42
+
+Study Static Analysis:1 started: 14/06/2021, 20:25:34
+Number of configurations: 1
+Default mesh: 52288 elements, 81172 nodes
+Model separates into 2 independent components
+Solution time 6.8s
+Convergence rate: 50%
+h Refinement #1: 55024 elements, 85644 nodes
+
+Model separates into 2 independent components
+Solution time 6.6s
+Convergence rate: 51.9%
+h Refinement #2: 55492 elements, 86584 nodes
+
+Model separates into 2 independent components
+Solution time 7.3s
+Convergence rate: 11.4%
+h Refinement #3: 55631 elements, 86841 nodes
+
+Model separates into 2 independent components
+Solution time 7.4s
+Convergence rate: 35.9%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 14/06/2021, 20:26:44
+Total time 0:01:10
+
+Study Static Analysis:1 started: 14/06/2021, 20:28:53
+Number of configurations: 1
+Default mesh: 53361 elements, 83108 nodes
+Model separates into 2 independent components
+Solution time 6.3s
+Convergence rate: 50%
+h Refinement #1: 54640 elements, 85235 nodes
+
+Model separates into 2 independent components
+Solution time 6.2s
+Convergence rate: 21.3%
+h Refinement #2: 54998 elements, 85877 nodes
+
+Model separates into 2 independent components
+Solution time 6.4s
+Convergence rate: 0.126%
+Problem converged 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 14/06/2021, 20:29:42
+Total time 0:00:49
+
