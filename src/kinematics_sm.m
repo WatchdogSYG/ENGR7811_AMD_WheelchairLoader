@@ -88,10 +88,9 @@ else
     fprintf('    Length of Link 4 Slider Movement L4 = %5.3f [mm]\n',-min(x));
     fprintf('    Opening width                       = %5.3f [mm]\n',2*opening);
     fprintf('    Opening distance from origin        = %5.3f [mm]\n',r);
-    
-    fprintf('___________END PROGRAM__________\n');
-    fprintf('________________________________\n');
 end
+fprintf('___________END PROGRAM__________\n');
+fprintf('________________________________\n');
 
 
 
