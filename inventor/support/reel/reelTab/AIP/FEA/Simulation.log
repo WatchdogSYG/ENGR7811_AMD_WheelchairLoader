@@ -1,0 +1,239 @@
+﻿Study Static Analysis:1 started: 20/06/2021, 16:21:42
+Number of configurations: 1
+Default mesh: 464 elements, 965 nodes
+Solution time 0.7s
+Convergence rate: 8.21%
+Problem converged 
+Study Static Analysis:1 finished: 20/06/2021, 16:21:44
+Total time 0:00:02
+
+Study Static Analysis:1 started: 20/06/2021, 16:22:21
+Number of configurations: 1
+Study Static Analysis:1 finished: 20/06/2021, 16:22:21
+Total time 0:00:00
+
+Study Static Analysis:1 started: 20/06/2021, 16:22:39
+Number of configurations: 11
+Configuration #1
+Configuration #2
+Default mesh: 470 elements, 959 nodes
+Solution time 0.4s
+Convergence rate: 10.8%
+h Refinement #1: 762 elements, 1459 nodes
+
+Solution time 0.4s
+Convergence rate: 3.59%
+Problem converged 
+Configuration #3
+Default mesh: 476 elements, 967 nodes
+Solution time 0.4s
+Convergence rate: 10.9%
+h Refinement #1: 773 elements, 1474 nodes
+
+Solution time 0.4s
+Convergence rate: 6.36%
+Problem converged 
+Configuration #4
+Default mesh: 470 elements, 961 nodes
+Solution time 0.4s
+Convergence rate: 6.11%
+Problem converged 
+Configuration #5
+Default mesh: 487 elements, 982 nodes
+Solution time 0.4s
+Convergence rate: 8.11%
+Problem converged 
+Configuration #6
+Default mesh: 488 elements, 983 nodes
+Solution time 0.4s
+Convergence rate: 17.5%
+h Refinement #1: 694 elements, 1331 nodes
+
+Solution time 0.4s
+Convergence rate: 8.06%
+Problem converged 
+Configuration #7
+Default mesh: 468 elements, 969 nodes
+Solution time 0.4s
+Convergence rate: 11.8%
+h Refinement #1: 748 elements, 1413 nodes
+
+Solution time 0.4s
+Convergence rate: 5.07%
+Problem converged 
+Configuration #8
+Default mesh: 458 elements, 957 nodes
+Solution time 0.4s
+Convergence rate: 10.5%
+h Refinement #1: 782 elements, 1460 nodes
+
+Solution time 0.4s
+Convergence rate: 3.74%
+Problem converged 
+Configuration #9
+Default mesh: 467 elements, 968 nodes
+Solution time 0.4s
+Convergence rate: 10.9%
+h Refinement #1: 695 elements, 1340 nodes
+
+Solution time 0.4s
+Convergence rate: 5.06%
+Problem converged 
+Configuration #10
+Default mesh: 539 elements, 1082 nodes
+Solution time 0.5s
+Convergence rate: 12.6%
+h Refinement #1: 738 elements, 1412 nodes
+
+Solution time 0.4s
+Convergence rate: 12.3%
+Reached the total number of h refinements 
+Configuration #11
+Default mesh: 523 elements, 1060 nodes
+Solution time 0.5s
+Convergence rate: 12.9%
+h Refinement #1: 792 elements, 1492 nodes
+
+Solution time 0.4s
+Convergence rate: 8.68%
+Problem converged 
+Study        Worst Jacobian ratio :  2.01  on element 82 finished: 20/06/2021, 16:23:02
+Total time 0:00:23
+
+Study Static Analysis:1 started: 20/06/2021, 16:25:25
+Number of configurations: 11
+Configuration #1
+Default mesh: 464 elements, 965 nodes
+Solution time 0.4s
+Convergence rate: 8.21%
+Problem converged 
+Configuration #2
+Default mesh: 590 elements, 1173 nodes
+Solution time 0.4s
+Convergence rate: 13.2%
+h Refinement #1: 1087 elements, 1990 nodes
+
+Solution time 0.5s
+Convergence rate: 5.78%
+Problem converged 
+Configuration #3
+Default mesh: 539 elements, 1076 nodes
+Solution time 0.4s
+Convergence rate: 14.6%
+h Refinement #1: 1043 elements, 1908 nodes
+
+Solution time 0.5s
+Convergence rate: 6.19%
+Problem converged 
+Configuration #4
+Default mesh: 572 elements, 1118 nodes
+Solution time 0.5s
+Convergence rate: 4.04%
+Problem converged 
+Configuration #5
+Default mesh: 527 elements, 1055 nodes
+Solution time 0.4s
+Convergence rate: 14.9%
+h Refinement #1: 787 elements, 1480 nodes
+
+Solution time 0.5s
+Convergence rate: 0.385%
+Problem converged 
+Configuration #6
+Default mesh: 533 elements, 1068 nodes
+Solution time 0.4s
+Convergence rate: 19.9%
+h Refinement #1: 837 elements, 1559 nodes
+
+Solution time 0.4s
+Convergence rate: 13.6%
+Reached the total number of h refinements 
+Configuration #7
+Default mesh: 516 elements, 1036 nodes
+Solution time 0.4s
+Convergence rate: 10.2%
+h Refinement #1: 827 elements, 1543 nodes
+
+Solution time 0.5s
+Convergence rate: 5.54%
+Problem converged 
+Configuration #8
+Default mesh: 656 elements, 1284 nodes
+Solution time 0.4s
+Convergence rate: 5.42%
+Problem converged 
+Configuration #9
+Default mesh: 700 elements, 1341 nodes
+Solution time 0.4s
+Convergence rate: 16.8%
+h Refinement #1: 1153 elements, 2155 nodes
+
+Solution time 1s
+Convergence rate: 7.91%
+Problem converged 
+Configuration #10
+Default mesh: 853 elements, 1570 nodes
+Solution time 0.4s
+Convergence rate: 3.09%
+Problem converged 
+Configuration #11
+Default mesh: 866 elements, 1575 nodes
+Solution time 0.5s
+Convergence rate: 6.84%
+Problem converged 
+Study        Worst Jacobian ratio :  1.92  on element 812 finished: 20/06/2021, 16:25:46
+Total time 0:00:21
+
+Study Static Analysis:1 started: 20/06/2021, 16:27:13
+Number of configurations: 6
+Configuration #1
+Configuration #2
+Configuration #3
+Configuration #4
+Configuration #5
+Configuration #6
+Study Static Analysis:1 finished: 20/06/2021, 16:27:13
+Total time 0:00:00
+
+Study Static Analysis:1 started: 20/06/2021, 16:29:00
+Number of configurations: 6
+Configuration #1
+h Refinement #1: 754 elements, 1415 nodes
+
+Solution time 0.4s
+Convergence rate: 1.09%
+Problem converged 
+Configuration #2
+h Refinement #2: 1838 elements, 3166 nodes
+
+Solution time 0.5s
+Convergence rate: 0.577%
+Problem converged 
+Configuration #3
+h Refinement #2: 2001 elements, 3455 nodes
+
+Solution time 0.6s
+Convergence rate: 0.779%
+Problem converged 
+Configuration #4
+Configuration #5
+Configuration #6
+h Refinement #2: 1216 elements, 2250 nodes
+
+Solution time 0.5s
+Convergence rate: 3.51%
+Problem converged 
+Study        Worst Jacobian ratio :  1.85  on element 1060 finished: 20/06/2021, 16:29:07
+Total time 0:00:07
+
+Study Static Analysis:1 started: 20/06/2021, 16:32:58
+Number of configurations: 6
+Configuration #1
+Configuration #2
+Configuration #3
+Configuration #4
+Configuration #5
+Configuration #6
+Study Static Analysis:1 finished: 20/06/2021, 16:32:58
+Total time 0:00:00
+
