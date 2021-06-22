@@ -1,14 +1,181 @@
-﻿Study Static Analysis:1 started: 5/26/2021, 11:53:46 AM
+﻿Study Static Analysis:1 started: 21/06/2021, 18:12:40
 Number of configurations: 1
-Default mesh: 5197 elements, 9156 nodes
-Solution time 0.4s
+Default mesh: 5034 elements, 9301 nodes
+Mesh at contact 6 is too coarse
+Solution time 2s
 Convergence rate: 50%
-Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 5/26/2021, 11:53:50 AM
-Total time 0:00:04
+h Refinement #1: 6369 elements, 11703 nodes
 
-Study Static Analysis:1 started: 5/26/2021, 11:54:12 AM
+Mesh at contact 6 is too coarse
+Solution time 2.2s
+Convergence rate: 43.9%
+h Refinement #2: 7785 elements, 14133 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 2.3s
+Convergence rate: 29.8%
+h Refinement #3: 9029 elements, 16414 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 3.1s
+Convergence rate: 16.3%
+h Refinement #4: 10431 elements, 19074 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 4.3s
+Convergence rate: 16.6%
+h Refinement #5: 10631 elements, 19425 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 5.7s
+Convergence rate: 1.91%
+Problem converged 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 21/06/2021, 18:13:22
+Total time 0:00:42
+
+Study Static Analysis:1 started: 21/06/2021, 18:13:40
 Number of configurations: 1
-Study Static Analysis:1 finished: 5/26/2021, 11:54:12 AM
+Study Static Analysis:1 finished: 21/06/2021, 18:13:40
 Total time 0:00:00
+
+Study Static Analysis:1 started: 21/06/2021, 18:14:05
+Number of configurations: 1
+h Refinement #6: 10805 elements, 19683 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 5.1s
+Convergence rate: 3.49%
+h Refinement #7: 10805 elements, 19683 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 5.1s
+Convergence rate: 0.000396%
+Problem converged 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 21/06/2021, 18:14:20
+Total time 0:00:15
+
+Study Static Analysis:1 started: 21/06/2021, 18:21:17
+Number of configurations: 1
+Default mesh: 5034 elements, 9301 nodes
+Mesh at contact 6 is too coarse
+Solution time 1.3s
+Convergence rate: 50%
+h Refinement #1: 6241 elements, 11429 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 1.8s
+Convergence rate: 50.5%
+h Refinement #2: 7112 elements, 13000 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 2.3s
+Convergence rate: 35.3%
+h Refinement #3: 8318 elements, 15053 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 3.4s
+Convergence rate: 8.63%
+h Refinement #4: 9599 elements, 17460 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 3.5s
+Convergence rate: 2.09%
+h Refinement #5: 10118 elements, 18418 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 4.3s
+Convergence rate: 5.03%
+h Refinement #6: 10267 elements, 18647 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 3.9s
+Convergence rate: 1%
+Problem converged 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 21/06/2021, 18:21:59
+Total time 0:00:42
+
+Study Static Analysis:1 started: 21/06/2021, 18:34:06
+Number of configurations: 1
+Default mesh: 5034 elements, 9301 nodes
+Mesh at contact 6 is too coarse
+Solution time 1.7s
+Convergence rate: 50%
+h Refinement #1: 5924 elements, 10895 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 2.2s
+Convergence rate: 47.6%
+h Refinement #2: 6630 elements, 12094 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 2.3s
+Convergence rate: 27.8%
+h Refinement #3: 7325 elements, 13356 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 2.9s
+Convergence rate: 4.79%
+h Refinement #4: 8168 elements, 14940 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 3.9s
+Convergence rate: 17.9%
+h Refinement #5: 8322 elements, 15214 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 4s
+Convergence rate: 3.05%
+h Refinement #6: 8436 elements, 15372 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 4.1s
+Convergence rate: 6.84%
+h Refinement #7: 8436 elements, 15372 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 4.2s
+Convergence rate: 0%
+Problem converged 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 21/06/2021, 18:34:53
+Total time 0:00:47
+
+Study Static Analysis:1 started: 21/06/2021, 18:45:11
+Number of configurations: 1
+Default mesh: 5034 elements, 9301 nodes
+Mesh at contact 6 is too coarse
+Solution time 1.3s
+Convergence rate: 50%
+h Refinement #1: 6241 elements, 11429 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 1.8s
+Convergence rate: 50.5%
+h Refinement #2: 7112 elements, 13000 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 2.3s
+Convergence rate: 35.3%
+h Refinement #3: 8318 elements, 15053 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 3.1s
+Convergence rate: 8.63%
+h Refinement #4: 9599 elements, 17460 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 3.4s
+Convergence rate: 2.09%
+h Refinement #5: 10118 elements, 18418 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 4.3s
+Convergence rate: 5.03%
+h Refinement #6: 10267 elements, 18647 nodes
+
+Mesh at contact 6 is too coarse
+Solution time 3.9s
+Convergence rate: 1%
+Problem converged 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 21/06/2021, 18:45:54
+Total time 0:00:43
 
