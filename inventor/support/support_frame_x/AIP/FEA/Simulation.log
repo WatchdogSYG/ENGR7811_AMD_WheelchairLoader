@@ -1,9 +1,72 @@
-﻿Study Static Analysis:1 started: 11/06/2021, 14:36:39
+﻿Study Static Analysis:1 started: 25/06/2021, 18:42:04
 Number of configurations: 1
-Default mesh: 9531 elements, 18115 nodes
-Solution time 2.3s
-Convergence rate: 9.41%
+Default mesh: 9842 elements, 18631 nodes
+Solution time 2.2s
+Convergence rate: 7.81%
+h Refinement #1: 12387 elements, 23314 nodes
+
+Solution time 2.4s
+Convergence rate: 18%
+h Refinement #2: 12850 elements, 24245 nodes
+
+Solution time 2.5s
+Convergence rate: 1.6%
 Problem converged 
-Study Static Analysis:1 finished: 11/06/2021, 14:36:42
-Total time 0:00:03
+Study        Worst Jacobian ratio :  2.31  on element 11643 finished: 25/06/2021, 18:42:37
+Total time 0:00:33
+
+Study Static Analysis:1 started: 25/06/2021, 18:51:24
+Number of configurations: 1
+Default mesh: 6096 elements, 10890 nodes
+Solution time 14.6s
+Convergence rate: 12.9%
+h Refinement #1: 14404 elements, 25420 nodes
+
+Solution time 19.5s
+Convergence rate: 31.1%
+Study        Worst Jacobian ratio :  2.64  on element 3698 finished: 25/06/2021, 18:54:10
+Total time 0:02:46
+
+Study Static Analysis:1 started: 25/06/2021, 18:54:29
+Number of configurations: 1
+Default mesh: 6096 elements, 10890 nodes
+Solution time 14.1s
+Convergence rate: 12.9%
+h Refinement #1: 14404 elements, 25420 nodes
+
+Solution time 19.1s
+Convergence rate: 31.1%
+h Refinement #2: 14753 elements, 26020 nodes
+
+Solution time 18.3s
+Convergence rate: 15.7%
+Study        Worst Jacobian ratio :  2.57  on element 4889 finished: 25/06/2021, 18:57:44
+Total time 0:03:15
+
+Study Static Analysis:1 started: 25/06/2021, 18:58:39
+Number of configurations: 1
+Default mesh: 5396 elements, 10892 nodes
+Solution time 7s
+Convergence rate: 31.3%
+h Refinement #1: 15877 elements, 29858 nodes
+
+Solution time 18.7s
+Convergence rate: 15.9%
+h Refinement #2: 15865 elements, 29858 nodes
+
+Solution time 19s
+Convergence rate: 0.0302%
+Problem converged 
+Study        Worst Jacobian ratio :  2.07  on element 13004 finished: 25/06/2021, 18:59:41
+Total time 0:01:02
+
+Study Static Analysis:1 started: 25/06/2021, 19:04:01
+Number of configurations: 1
+Study Static Analysis:1 finished: 25/06/2021, 19:04:01
+Total time 0:00:00
+
+Study Static Analysis:1 started: 25/06/2021, 19:04:15
+Number of configurations: 1
+Study Static Analysis:1 finished: 25/06/2021, 19:04:15
+Total time 0:00:00
 
